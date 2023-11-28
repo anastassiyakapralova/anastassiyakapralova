@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @anastassiyakapralova
+- 👀 I’m interested in studying Web Development (HTML, CSS, JavaScript, SQL, Python, PHP, Bootstrap, Java, XML and more).
+- 🌱 I’m currently learning Web Development Online Course on Udemy.
+- 💞️ I’m looking to collaborate on interesting and socially impactful projects.
+- 📫 How to reach me: email@ anastassiya3712@gmail.com.
